@@ -1,0 +1,97 @@
+{
+  "name": "Jian Lv",
+  "title": "Professor",
+  "affiliation": "International Center of Computational Method and Software, College of Physics, Jilin University",
+  "verifiedEmailDomain": "calypso.cn",
+  "location": "Changchun, China",
+  "summary": "My research focuses on the development and application of the CALYPSO structure prediction method for materials discovery in physics, chemistry, and materials science.",
+  "scholarUrl": "https://scholar.google.com/citations?user=L3fXIPsAAAAJ&hl=en",
+  "orcidUrl": "https://orcid.org/0000-0002-6201-9888",
+  "lastUpdated": "2026-05-10",
+  "metrics": [
+    {
+      "label": "Citations",
+      "value": "15,544"
+    },
+    {
+      "label": "h-index",
+      "value": "44"
+    },
+    {
+      "label": "i10-index",
+      "value": "85"
+    }
+  ],
+  "researchInterests": [
+    "Crystal structure prediction",
+    "Computational materials science",
+    "High-pressure physics and chemistry",
+    "Machine learning for materials discovery",
+    "Superhard, superconducting, and energy materials"
+  ],
+  "links": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=L3fXIPsAAAAJ&hl=en"
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0002-6201-9888"
+    },
+    {
+      "label": "CALYPSO",
+      "url": "http://www.calypso.cn/"
+    },
+    {
+      "label": "Jilin University",
+      "url": "https://www.jlu.edu.cn/"
+    }
+  ],
+  "highlights": [
+    "Develops and applies CALYPSO-based approaches for predicting crystal structures and material properties.",
+    "Works at the intersection of condensed matter physics, chemistry, high-pressure science, and materials informatics.",
+    "Maintains an academic publication record indexed through Google Scholar."
+  ],
+  "publications": [
+    {
+      "title": "Crystal structure prediction via particle-swarm optimization",
+      "authors": "Y. Wang, J. Lv, L. Zhu, Y. Ma",
+      "venue": "Physical Review B",
+      "year": "2010",
+      "note": "Early particle-swarm optimization framework for crystal structure prediction."
+    },
+    {
+      "title": "Adaptive genetic algorithm for crystal structure prediction",
+      "authors": "Y. Wang, J. Lv, L. Zhu, Y. Ma",
+      "venue": "Computer Physics Communications",
+      "year": "2012",
+      "note": "Foundational work related to CALYPSO crystal structure prediction."
+    },
+    {
+      "title": "CALYPSO: A method for crystal structure prediction",
+      "authors": "Y. Wang, J. Lv, L. Zhu, Y. Ma",
+      "venue": "Computer Physics Communications",
+      "year": "2012",
+      "note": "Software-method paper for predicting stable and metastable crystal structures from composition and external conditions."
+    },
+    {
+      "title": "The CALYPSO methodology for structure prediction",
+      "authors": "Q. Tong, J. Lv, P. Gao, Y. Wang",
+      "venue": "Chinese Physics B",
+      "year": "2019",
+      "note": "Review-style overview of the CALYPSO methodology and its use in structure searches and materials discovery."
+    },
+    {
+      "title": "Crystal Structure Prediction via Efficient Sampling of the Potential Energy Surface",
+      "authors": "Y. Wang, J. Lv, P. Gao, Y. Ma",
+      "venue": "Accounts of Chemical Research",
+      "year": "2022",
+      "note": "Profile-level review connecting crystal structure prediction, potential energy surfaces, and materials discovery."
+    }
+  ],
+  "contact": {
+    "email": "lvjian@jlu.edu.cn",
+    "office": "",
+    "department": "College of Physics, Jilin University"
+  }
+}
